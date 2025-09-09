@@ -83,9 +83,3 @@ Make sure to place the dataset inside the `data/` folder or update the notebook 
 * Deploy model as a **Flask/Django Web App**.
 
 ---
-
-```
-
----
-
-```
