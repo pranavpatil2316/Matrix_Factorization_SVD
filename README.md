@@ -1,4 +1,4 @@
-```markdown
+---
 # 🎥 Movie Recommender System using SVD (Matrix Factorization)
 
 This project implements a **Recommender System** using **Singular Value Decomposition (SVD)**, a popular **matrix factorization** technique in collaborative filtering.  
@@ -52,18 +52,17 @@ Make sure to place the dataset inside the `data/` folder or update the notebook 
    git clone https://github.com/pranavpatil2316/SVD-Recommender-System.git
    cd SVD-Recommender-System
 ````
-
 2. Install dependencies:
 
    ```bash
    pip install numpy pandas scikit-learn matplotlib seaborn scikit-surprise
-   ```
+````
 
 3. Open Jupyter Notebook:
 
    ```bash
    jupyter notebook SVD_Recommender_System.ipynb
-   ```
+   ````
 
 4. Run all cells step by step.
 
