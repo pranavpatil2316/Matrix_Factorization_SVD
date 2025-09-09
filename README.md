@@ -88,5 +88,4 @@ Make sure to place the dataset inside the `data/` folder or update the notebook 
 
 ---
 
-Would you like me to also **generate a `requirements.txt` file** from your notebook so that anyone can install the exact dependencies directly?
 ```
